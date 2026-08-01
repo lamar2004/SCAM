@@ -105,7 +105,7 @@ export default function Home() {
                 boxshadow:"0 10px 30px, rgba(0,0,0,0.3)",
               }}
               >
-                <source src="../public/videos/Sistema_Bodega_Inteligente.mp4" type="video/mp4" />
+                <source src="/videos/Sistema_Bodega_Inteligente.mp4" type="video/mp4" />
               </video>
               </Box>
             </Box>
@@ -196,7 +196,7 @@ export default function Home() {
                     boxshadow:"0 10px 30px, rgba(0,0,0,0.3)",
                   }}
                 >
-                  <source src="../public/videos/Escenario_Empresarial.mp4" type="video/mp4" />
+                  <source src="/videos/Escenario_Empresarial.mp4" type="video/mp4" />
                 </video>
               </Grid>
             </Grid>
@@ -245,7 +245,7 @@ export default function Home() {
               </Grid>
               <Grid item xs={12} md={5}>
                 <Box sx={{flex:1, maxWidth:{md:480}}}/>
-                <img src="/public/images/Sistema2.png" style={{width:"100%", height:"100%", borderRadius:"16px", objectFit:"cover"}} />
+                <img src="/images/Sistema2.png" style={{width:"100%", height:"100%", borderRadius:"16px", objectFit:"cover"}} />
               </Grid>
             </Grid>
           </Paper>

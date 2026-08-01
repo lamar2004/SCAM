@@ -41,4 +41,8 @@ Plataforma Web y Móvil – Ingeniería en Sistemas Computacionales
 
 * Dashboard en React para monitoreo en tiempo real.
 * Aplicación móvil para control remoto.
+
 * Submódulos: control de versiones, pruebas, despliegue y mantenimiento.
+
+* Submódulos: control de versiones, pruebas, despliegue y mantenimiento.
+>>>>>>> 63c7c3b (Correccion de imagenes)
